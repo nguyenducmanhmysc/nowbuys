@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "637a4d30b9fc8e1575521edd"
+  },
+  "name": "Apple Watch Ultra",
+  "link_img": "https://manhducjr.cf/nowbuys/products/smartwatchs//AppleWatchUltra.png",
+  "desc": "",
+  "price": 23990000,
+  "discount_percentage": 0,
+  "show_home": true
+},{
+  "_id": {
+    "$oid": "637a4d30b9fc8e1575521ede"
+  },
+  "name": "Samsung Galaxy Watch 5",
+  "link_img": "https://manhducjr.cf/nowbuys/products/smartwatchs//SamsungGalaxyWatch5.png",
+  "desc": "",
+  "price": 7490000,
+  "discount_percentage": 0,
+  "show_home": true
+},{
+  "_id": {
+    "$oid": "637a4d30b9fc8e1575521edf"
+  },
+  "name": "Apple Watch S8",
+  "link_img": "https://manhducjr.cf/nowbuys/products/smartwatchs//AppleWatchS8.png",
+  "desc": "",
+  "price": 11690000,
+  "discount_percentage": 0,
+  "show_home": true
+}]

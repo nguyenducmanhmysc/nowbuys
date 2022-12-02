@@ -1,0 +1,109 @@
+<div id="body">
+    
+    <div class="bottom-header-lining">
+        647
+    </div>
+
+    <div class="body_menu-brand">
+        <a href="/laptop-products/Macbook">
+            <div class="button-brand {{comparisonStringToChecked productInf 'Macbook'}}">Macbook</div>
+        </a>
+        <a href="/laptop-products/Microsoft">
+            <div class="button-brand {{comparisonStringToChecked productInf 'Microsoft'}}">Microsoft</div>
+        </a>
+        <a href="/laptop-products/Dell">
+            <div class="button-brand {{comparisonStringToChecked productInf 'Dell'}}">Dell</div>
+        </a>
+        <a href="/laptop-products/LG">
+            <div class="button-brand {{comparisonStringToChecked productInf 'LG'}}">LG</div>
+        </a>
+        <a href="/laptop-products/Lenovo">
+            <div class="button-brand {{comparisonStringToChecked productInf 'Lenovo'}}">Lenovo</div>
+        </a>
+        <a href="/laptop-products/Asus">
+            <div class="button-brand {{comparisonStringToChecked productInf 'Asus'}}">Asus</div>
+        </a>
+    </div>
+
+    <div class="body_menu_sort">
+        <span>Sắp xếp</span>
+        <div class="button-sort {{comparisonStringToChecked sortInf 'ascending'}}">
+            <a href="./{{productInf}}?sort=ascending">
+                <i class="icon-square far fa-square"></i>
+                <i class="icon-square-checked far fa-check-square"></i>
+                <span>Giá thấp - cao</span>
+            </a>
+        </div>
+        <div class="button-sort {{comparisonStringToChecked sortInf 'descending'}}">
+            <a href="./{{productInf}}?sort=descending">
+                <i class="icon-square far fa-square"></i>
+                <i class="icon-square-checked far fa-check-square"></i>
+                <span>Giá cao - thấp</span>
+            </a>
+        </div>
+        <div class="button-sort {{comparisonStringToChecked sortInf 'discount'}}">
+            <a href="./{{productInf}}?sort=discount">
+                <i class="icon-square far fa-square"></i>
+                <i class="icon-square-checked far fa-check-square"></i>
+                <span>Khuyến mãi</span>
+            </a>
+        </div>
+        
+    </div>
+
+    <div class="body_container-products">
+        {{#each (shuffle laptopAPI)}}
+            <div class="cart-product swiper-slide">
+                <div class="cart-product_name">
+                    <span>{{this.name_display}}</span>
+                </div>
+                <div class="cart-product_picture-frame">
+                    <img src="{{this.link_img}}" alt="">
+                </div>
+                <div class="cart-product_inf">
+                    <div class="cart-product_inf__desc">
+                        <span>{{this.desc}}</span>
+                    </div>
+                    <div class="cart-product_inf__price">
+                        <div class="cart-product_inf__price-no-discount">
+                            <span>{{currencyFormat this.price}}</span>
+                        </div>
+                        <div class="cart-product_inf__price-discounted">
+                            <span>{{currencyFormat (priceDiscounted this.price this.discount_percentage)}}</span>
+                        </div>
+                    </div>
+                    <div class="cart-product_inf__buttons">
+                        <div class="cart-product_inf__buttons--buy">
+                            <span>Mua Ngay</span>
+                        </div>
+                        <div class="cart-product_inf__buttons--cart">
+                            <ion-icon name="cart-outline"></ion-icon>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {{/each}}
+    </div>
+
+    
+
+    {{!-- <div class="body_intro-order">
+        <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/intro-shipper.png" alt="" sizes="" srcset="">
+
+        <div class="body_intro-order__slide-ship">
+            <div class="body_intro-order__slide-ship___img-frame">
+                <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/shipper-1.png" alt="" srcset="">
+            </div>
+            <div class="body_intro-order__slide-ship___img-frame">
+                <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/shipper-2.png" alt="" srcset="">
+            </div>
+            <div class="body_intro-order__slide-ship___img-frame">
+                <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/shipper-3.png" alt="" srcset="">
+            </div>
+            <div class="body_intro-order__slide-ship___img-frame">
+                <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/shipper-4.png" alt="" srcset="">
+            </div>
+        </div>
+    </div> --}}
+
+</div>

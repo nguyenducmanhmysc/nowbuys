@@ -1,0 +1,109 @@
+
+/* Button navigation scroll */
+.button-scroll-prev,
+.button-scroll-next {
+    width: 50px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.159);
+    border-radius: 50%;
+    filter: drop-shadow(0px 0px 9px rgba(149, 149, 149, 0.25));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-50%);
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0;
+    transition: all 0.2s;
+}
+
+.button-scroll-prev ion-icon {
+    transform: translateX(-10%);
+}
+
+.button-scroll-next ion-icon {
+    transform: translateX(5%);
+}
+
+
+.button-scroll-prev ion-icon,
+.button-scroll-next ion-icon {
+    font-size: 30px;
+    color: #fff;
+}
+
+.button-scroll-prev {
+   position: absolute;
+   top: 50%;
+   left: 8px;
+}
+
+.button-scroll-next {
+    position: absolute;
+    top: 50%;
+    right: 8px;
+}
+
+
+/* Button brand menu */
+.button-brand {
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(237, 237, 237);
+    text-align: center;
+    color: #000;
+    font-weight: 600;
+}
+
+.button-brand.checked {
+    background-color: rgb(69, 69, 69);
+    color: #fff;
+}
+
+/* Button sort menu */
+.button-sort {
+    margin: 7px 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.button-sort a {
+    display: flex;
+    align-items: center;
+}
+
+.button-sort i,
+.button-sort span {
+    color: rgb(140, 140, 140);
+}
+
+.button-sort.checked i,
+.button-sort.checked span {
+    color: rgb(0, 0, 0);
+}
+
+
+.button-sort .icon-square,
+.button-sort .icon-square-checked {
+    padding-right: 5px;
+    font-size: 20px;
+}
+
+.button-sort .icon-square {
+    display: block;
+}
+.button-sort .icon-square-checked {
+    display: none;
+}
+
+.button-sort.checked .icon-square {
+    display: none;
+}
+
+.button-sort.checked .icon-square-checked {
+    display: block !important;
+}
+

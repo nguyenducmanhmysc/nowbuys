@@ -1,0 +1,86 @@
+<div id="body">
+    
+    <div class="bottom-header-lining">
+        647
+    </div>
+
+    <div class="body_menu-brand">
+        <a href="/phone-products/IPhone">
+            <div class="button-brand {{comparisonStringToChecked productInf 'IPhone'}}">IPhone</div>
+        </a>
+        <a href="/phone-products/Samsung">
+            <div class="button-brand {{comparisonStringToChecked productInf 'Samsung'}}">Samsung</div>
+        </a>
+        <a href="/phone-products/Oppo">
+            <div class="button-brand {{comparisonStringToChecked productInf 'Oppo'}}">Oppo</div>
+        </a>
+        <a href="/phone-products/Xiaomi">
+            <div class="button-brand {{comparisonStringToChecked productInf 'Xiaomi'}}">Xiaomi</div>
+        </a>
+        <a href="/phone-products/Asus">
+            <div class="button-brand {{comparisonStringToChecked productInf 'Asus'}}">Asus</div>
+        </a>
+    </div>
+
+    <div class="body_menu_sort">
+        <span>Sắp xếp</span>
+        <div class="button-sort {{comparisonStringToChecked sortInf 'ascending'}}">
+            <a href="./{{productInf}}?sort=ascending">
+                <i class="icon-square far fa-square"></i>
+                <i class="icon-square-checked far fa-check-square"></i>
+                <span>Giá thấp - cao</span>
+            </a>
+        </div>
+        <div class="button-sort {{comparisonStringToChecked sortInf 'descending'}}">
+            <a href="./{{productInf}}?sort=descending">
+                <i class="icon-square far fa-square"></i>
+                <i class="icon-square-checked far fa-check-square"></i>
+                <span>Giá cao - thấp</span>
+            </a>
+        </div>
+        <div class="button-sort {{comparisonStringToChecked sortInf 'discount'}}">
+            <a href="./{{productInf}}?sort=discount">
+                <i class="icon-square far fa-square"></i>
+                <i class="icon-square-checked far fa-check-square"></i>
+                <span>Khuyến mãi</span>
+            </a>
+        </div>
+        
+    </div>
+
+    <div class="body_container-products">
+        {{#each (shuffle phoneAPI)}}
+            <div class="cart-product swiper-slide">
+                <div class="cart-product_name">
+                    <span>{{this.name_display}}</span>
+                </div>
+                <div class="cart-product_picture-frame">
+                    <img src="{{this.link_img}}" alt="">
+                </div>
+                <div class="cart-product_inf">
+                    <div class="cart-product_inf__desc">
+                        <span>{{this.desc}}</span>
+                    </div>
+                    <div class="cart-product_inf__price">
+                        <div class="cart-product_inf__price-no-discount">
+                            <span>{{currencyFormat this.price}}</span>
+                        </div>
+                        <div class="cart-product_inf__price-discounted">
+                            <span>{{currencyFormat (priceDiscounted this.price this.discount_percentage)}}</span>
+                        </div>
+                    </div>
+                    <div class="cart-product_inf__buttons">
+                        <div class="cart-product_inf__buttons--buy">
+                            <span>Mua Ngay</span>
+                        </div>
+                        <div class="cart-product_inf__buttons--cart">
+                            <ion-icon name="cart-outline"></ion-icon>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {{/each}}
+    </div>
+
+</div>
+

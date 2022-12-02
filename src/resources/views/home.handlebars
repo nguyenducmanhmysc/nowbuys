@@ -1,0 +1,250 @@
+<div id="body">
+
+    <div class="bottom-header-lining">
+        647
+    </div>
+
+    <div class="body_overview">
+        <div class="body_overview__heading">
+            <div class="overview-heading_left">
+                <span class="first-word">NowBuys.</span>
+                <span class="second-word">Thoả sức đắm chìm vào thế giới công nghệ</span>
+                <p class="third-word">Sống trọn đam mê</p>
+            </div>
+            <div class="overview-heading_right">
+                <div class="overview-heading_right__item">
+                    <div class="overview-heading_right__item___frame">
+                        <img src="https://manhducjr.cf/nowbuys/global/overview/support.png" alt="">
+                    </div>
+                    <div class="overview-heading_right__item__content">
+                        <p class="right-item-content_title">Cách thức mua hàng</p>
+                        <a href="" class="right-item-content_sub-title">Đi đến hướng dẫn</a>
+                    </div>
+                </div>
+                <div class="overview-heading_right__item">
+                    <div class="overview-heading_right__item___frame">
+                        <img src="https://manhducjr.cf/nowbuys/global/logo-app/logo.png" alt="">
+                    </div>
+                    <div class="overview-heading_right__item__content">
+                        <p class="right-item-content_title">Hiểu thêm về chúng tôi</p>
+                        <a href="" class="right-item-content_sub-title">Thông tin</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="body_overview__portfolio">
+            <a href="/phone-products/all" class="overview-portfolio_item">
+                <div class="overview-portfolio_item__img-frame">
+                    <img src="https://manhducjr.cf/nowbuys/global/overview/portfolio/phone.png" alt="">
+                </div>
+                <h3 class="overview-portfolio_item__name">Điện thoại</h3>
+            </a>
+            <a href="" class="overview-portfolio_item">
+                <div class="overview-portfolio_item__img-frame">
+                    <img src="https://manhducjr.cf/nowbuys/global/overview/portfolio/laptop.png" alt="">
+                </div>
+                <h3 class="overview-portfolio_item__name">Laptop</h3>
+            </a>
+            <a href="" class="overview-portfolio_item">
+                <div class="overview-portfolio_item__img-frame">
+                    <img src="https://manhducjr.cf/nowbuys/global/overview/portfolio/ipad.png" alt="">
+                </div>
+                <h3 class="overview-portfolio_item__name">Ipad</h3>
+            </a>
+            <a href="" class="overview-portfolio_item">
+                <div class="overview-portfolio_item__img-frame">
+                    <img src="https://manhducjr.cf/nowbuys/global/overview/portfolio/tablet.png" alt="">
+                </div>
+                <h3 class="overview-portfolio_item__name">Tablet</h3>
+            </a>
+            <a href="" class="overview-portfolio_item">
+                <div class="overview-portfolio_item__img-frame">
+                    <img src="https://manhducjr.cf/nowbuys/global/overview/portfolio/screen-PC.png" alt="">
+                </div>
+                <h3 class="overview-portfolio_item__name">Màn hình máy tính</h3>
+            </a>
+            <a href="" class="overview-portfolio_item">
+                <div class="overview-portfolio_item__img-frame">
+                    <img src="https://manhducjr.cf/nowbuys/global/overview/portfolio/smart-watch.png" alt="">
+                </div>
+                <h3 class="overview-portfolio_item__name">Đồng hồ thông minh</h3>
+            </a>
+            <a href="" class="overview-portfolio_item">
+                <div class="overview-portfolio_item__img-frame">
+                    <img src="https://manhducjr.cf/nowbuys/global/overview/portfolio/watch.png" alt="">
+                </div>
+                <h3 class="overview-portfolio_item__name">Đồng hồ thời trang</h3>
+            </a>
+        </div>
+    </div>
+
+    <div class="body_notable-envent">
+        <img src="https://manhducjr.cf/nowbuys/introduces/notable-envent/notable-events.png" alt="">
+    </div>
+
+    <div class="body_phone">
+        <p class="body_phone__title">Điện Thoại</p>
+
+        <div #swiperRef="" class="body_phone__contain swiper-container swiper-container-phone">
+
+            <div class="body_phone__horizontal-scrolling swiper-wrapper">
+                {{#each phoneAPI}}
+                    <div class="cart-product swiper-slide">
+                        <div class="cart-product_name">
+                            <span>{{this.name_display}}</span>
+                        </div>
+                        <div class="cart-product_picture-frame">
+                            <img src="{{this.link_img}}" alt="">
+                        </div>
+                        <div class="cart-product_inf">
+                            <div class="cart-product_inf__desc">
+                                <span>{{this.desc}}</span>
+                            </div>
+                            <div class="cart-product_inf__price">
+                                <div class="cart-product_inf__price-no-discount">
+                                    <span>{{currencyFormat this.price}}</span>
+                                </div>
+                                <div class="cart-product_inf__price-discounted">
+                                    <span>{{currencyFormat (priceDiscounted this.price this.discount_percentage)}}</span>
+                                </div>
+                            </div>
+                            <div class="cart-product_inf__buttons">
+                                <div class="cart-product_inf__buttons--buy">
+                                    <span>Mua Ngay</span>
+                                </div>
+                                <div class="cart-product_inf__buttons--cart">
+                                    <ion-icon name="cart-outline"></ion-icon>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{/each}}
+            </div>
+            <div class="button-scroll-prev button-prev-phone--JS">
+                <ion-icon name="chevron-back-outline"></ion-icon>
+            </div>
+            <div class="button-scroll-next button-next-phone--JS">
+                <ion-icon name="chevron-forward-outline"></ion-icon>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="body_laptop">
+        <p class="body_laptop__title">Máy tính xách tay</p>
+
+        <div #swiperRef="" class="body_laptop__contain swiper-container swiper-container-laptop">
+
+            <div class="body_laptop__horizontal-scrolling swiper-wrapper">
+                {{#each laptopAPI}}
+                    <div class="cart-product swiper-slide">
+                        <div class="cart-product_name">
+                            <span>{{this.name_display}}</span>
+                        </div>
+                        <div class="cart-product_picture-frame">
+                            <img src="{{this.link_img}}" alt="">
+                        </div>
+                        <div class="cart-product_inf">
+                            <div class="cart-product_inf__desc">
+                                <span>{{this.desc}}</span>
+                            </div>
+                            <div class="cart-product_inf__price">
+                                <div class="cart-product_inf__price-no-discount">
+                                    <span>{{currencyFormat this.price}}</span>
+                                </div>
+                                <div class="cart-product_inf__price-discounted">
+                                    <span>{{currencyFormat (priceDiscounted this.price this.discount_percentage)}}</span>
+                                </div>
+                            </div>
+                            <div class="cart-product_inf__buttons">
+                                <div class="cart-product_inf__buttons--buy">
+                                    <span>Mua Ngay</span>
+                                </div>
+                                <div class="cart-product_inf__buttons--cart">
+                                    <ion-icon name="cart-outline"></ion-icon>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{/each}}
+            </div>
+            <div class="button-scroll-prev button-prev-laptop--JS">
+                <ion-icon name="chevron-back-outline"></ion-icon>
+            </div>
+            <div class="button-scroll-next button-next-laptop--JS">
+                <ion-icon name="chevron-forward-outline"></ion-icon>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="body_intro-smart-watch">
+        <div class="body_intro-smart-watch__left">
+            <p class="intro-smart-watch_left__name">Smart Watch</p>
+            <p class="intro-smart-watch_left__content-intro">Không chỉ xem giờ</p>
+            <p class="intro-smart-watch_left__content-intro">... Công cụ chăm sóc sức khoẻ</p>
+            <div class="intro-smart-watch_left__link">
+                <a href="">Tìm hiểu thêm</a>
+                <a href="">Khám phá ngay</a>
+            </div>
+            <p class="intro-smart-watch_left__slogan">Sành điệu - Cá tính - Hiện đại</p>
+        </div>
+        <div class="body_intro-smart-watch__right">
+            <div class="intro-smart-watch_right__img-frame">
+                <img src="https://manhducjr.cf/nowbuys/introduces/smart-watch/intro-smart-watch.png" alt="">
+            </div>
+        </div>
+    </div>
+
+    <div class="body_smart-watch">
+
+        <div class="body_smart-watch__contain">
+            {{#each smartWatchAPI}}
+                <div class="smart-watch_contain__item">
+                    <div class="smart-watch_contain__item___picture-frame">
+                        <img src="{{this.link_img}}" alt="">
+                    </div>
+                    <p class="smart-watch_contain__item___status">New</p>
+                    <div class="smart-watch_contain__item___name">
+                        <span>{{this.name}}</span>
+                    </div>
+                    <div class="smart-watch_contain__item___price">
+                        <span>{{currencyFormat this.price}}</span>
+                    </div>
+                    <div class="smart-watch_contain__item___btn-buy">
+                        <span>Mua Ngay</span>
+                    </div>
+                    <a href="#" class="smart-watch_contain__item___link">Chi tiết sản phẩm</a>
+                </div>
+            {{/each}}
+        </div>
+
+        <div class="smart-watch_contain__item___link">
+            <a href="" class="body_smart-watch__link">
+                Xem tất cả 
+                <ion-icon name="chevron-forward-outline"></ion-icon>
+            </a>
+        </div>
+    </div>
+
+    <div class="body_intro-order">
+        <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/intro-shipper.png" alt="" sizes="" srcset="">
+
+        <div class="body_intro-order__slide-ship">
+            <div class="body_intro-order__slide-ship___img-frame">
+                <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/shipper-1.png" alt="" srcset="">
+            </div>
+            <div class="body_intro-order__slide-ship___img-frame">
+                <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/shipper-2.png" alt="" srcset="">
+            </div>
+            <div class="body_intro-order__slide-ship___img-frame">
+                <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/shipper-3.png" alt="" srcset="">
+            </div>
+            <div class="body_intro-order__slide-ship___img-frame">
+                <img src="https://manhducjr.cf/nowbuys/global/intro-shipper/shipper-4.png" alt="" srcset="">
+            </div>
+        </div>
+    </div>
+    
+</div>

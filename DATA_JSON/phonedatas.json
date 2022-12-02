@@ -1,0 +1,382 @@
+[
+    {
+        "name_display": "IPhone 14 Pro Max",
+        "full_name": "IPhone 14 Pro Max",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-14-pro-max.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 33590000,
+        "discount_percentage": 1,
+        "show_home": true,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 14 Pro",
+        "full_name": "IPhone 14 Pro",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-14-pro.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 30990000,
+        "discount_percentage": 1,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 14 Plus",
+        "full_name": "IPhone 14 Plus",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-14-plus.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 27990000,
+        "discount_percentage": 7,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 14",
+        "full_name": "IPhone 14",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-14.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 24990000,
+        "discount_percentage": 8,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 13 Pro Max",
+        "full_name": "IPhone 13 Pro Max",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-13-pro-max.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 36990000,
+        "discount_percentage": 16,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 13 Pro Max",
+        "full_name": "IPhone 13 Pro Max",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-13-pro-max.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 36990000,
+        "discount_percentage": 16,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 13 Pro",
+        "full_name": "IPhone 13 Pro",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-13-pro.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 33990000,
+        "discount_percentage": 16,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 13 Mini",
+        "full_name": "IPhone 13 Mini",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-13-mini.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 21990000,
+        "discount_percentage": 20,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 13",
+        "full_name": "IPhone 13",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-13.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 24990000,
+        "discount_percentage": 20,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 12 Mini",
+        "full_name": "IPhone 12 Mini",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-12-mini.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 21990000,
+        "discount_percentage": 34,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 12",
+        "full_name": "IPhone 12",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-12.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 19990000,
+        "discount_percentage": 15,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "IPhone 11",
+        "full_name": "IPhone 11",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/iphone-11.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 14990000,
+        "discount_percentage": 22,
+        "show_home": false,
+        "brand": "IPhone"
+    },
+    {
+        "name_display": "Oppo Reno 8Z 5G",
+        "full_name": "Oppo Reno 8Z 5G",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/oppo-reno8-z-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 10490000,
+        "discount_percentage": 0.5,
+        "show_home": false,
+        "brand": "Oppo"
+    },
+    {
+        "name_display": "Oppo Reno 8 5G",
+        "full_name": "Oppo Reno 8 5G",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/oppo-reno-8-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 18990000,
+        "discount_percentage": 0.5,
+        "show_home": true,
+        "brand": "Oppo"
+    },
+    {
+        "name_display": "Oppo Reno 8",
+        "full_name": "Oppo Reno 8",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/oppo-reno-8-4g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 8990000,
+        "discount_percentage": 3,
+        "show_home": false,
+        "brand": "Oppo"
+    },
+    {
+        "name_display": "Oppo Reno 7Z 5G",
+        "full_name": "Oppo Reno 7Z 5G",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/oppo-reno-7-z-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 9990000,
+        "discount_percentage": 15,
+        "show_home": false,
+        "brand": "Oppo"
+    },
+    {
+        "name_display": "Oppo Reno 7 Pro 5G",
+        "full_name": "Oppo Reno 7 Pro 5G",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/oppo-reno-7-pro-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 18990000,
+        "discount_percentage": 21,
+        "show_home": false,
+        "brand": "Oppo"
+    },
+    {
+        "name_display": "Oppo Reno 7",
+        "full_name": "Oppo Reno 7",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/oppo-reno-7-4g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 7990000,
+        "discount_percentage": 12,
+        "show_home": false,
+        "brand": "Oppo"
+    },
+    {
+        "name_display": "Oppo Reno 6 Pro",
+        "full_name": "Oppo Reno 6 Pro",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/oppo-reno-6-pro.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 14990000,
+        "discount_percentage": 20,
+        "show_home": false,
+        "brand": "Oppo"
+    },
+    {
+        "name_display": "Oppo Reno 6",
+        "full_name": "Oppo Reno 6",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/oppo-reno-6-4g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 12990000,
+        "discount_percentage": 35,
+        "show_home": false,
+        "brand": "Oppo"
+    },
+    {
+        "name_display": "Samsung Z Fold 4",
+        "full_name": "Samsung Galaxy Z Fold 4",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-z-fold-4-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 40990000,
+        "discount_percentage": 7,
+        "show_home": true,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung Z Fold 3",
+        "full_name": "Samsung Galaxy Z Fold 3",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-z-fold-3-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 41990000,
+        "discount_percentage": 30,
+        "show_home": false,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung Z Flip 4",
+        "full_name": "Samsung Galaxy Z Flip 4",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-z-flip-4-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 11,
+        "show_home": true,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung Z Flip 3",
+        "full_name": "Samsung Galaxy Z Flip 3",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-z-flip-3.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 26990000,
+        "discount_percentage": 46,
+        "show_home": false,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung S22 Ultra",
+        "full_name": "Samsung Galaxy S22 Ultra",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-s22-ultra.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 30990000,
+        "discount_percentage": 16,
+        "show_home": false,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung S22 Plus",
+        "full_name": "Samsung Galaxy S22 Plus",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-s-22-plus-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 15,
+        "show_home": false,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung S22",
+        "full_name": "Samsung Galaxy S22",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-s-22-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 21990000,
+        "discount_percentage": 18,
+        "show_home": false,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung S21 FE",
+        "full_name": "Samsung Galaxy S21 FE",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-s-21-fe-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 16990000,
+        "discount_percentage": 23,
+        "show_home": false,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung Note 20 Ultra",
+        "full_name": "Samsung Galaxy Note 20 Ultra",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-note-20-ultra-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 35990000,
+        "discount_percentage": 8,
+        "show_home": true,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung A73 5G",
+        "full_name": "Samsung Galaxy A73 5G",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-a73-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 11990000,
+        "discount_percentage": 0,
+        "show_home": false,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Samsung A53 5G",
+        "full_name": "Samsung Galaxy A53 5G",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/samsung-galaxy-a-53.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 9990000,
+        "discount_percentage": 0,
+        "show_home": false,
+        "brand": "Samsung"
+    },
+    {
+        "name_display": "Xiaomi 12T Pro 5G",
+        "full_name": "Xiaomi 12T Pro 5G",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/xiaomi-12-t-pro.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 16990000,
+        "discount_percentage": 0,
+        "show_home": true,
+        "brand": "Xiaomi"
+    },
+    {
+        "name_display": "Xiaomi 12T",
+        "full_name": "Xiaomi 12T",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/xiaomi-12-t.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 12490000,
+        "discount_percentage": 4,
+        "show_home": false,
+        "brand": "Xiaomi"
+    },
+    {
+        "name_display": "Xiaomi 12 Pro 5G",
+        "full_name": "Xiaomi 12 Pro 5G",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/xiaomi-12-pro-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 12490000,
+        "discount_percentage": 7,
+        "show_home": false,
+        "brand": "Xiaomi"
+    },
+    {
+        "name_display": "Xiaomi 12 5G",
+        "full_name": "Xiaomi 12 5G",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/xiaomi-12-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 12490000,
+        "discount_percentage": 7,
+        "show_home": false,
+        "brand": "Xiaomi"
+    },
+    {
+        "name_display": "Xiaomi 11T Pro",
+        "full_name": "Xiaomi 11T Pro",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/xiaomi-11-t-pro-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 14990000,
+        "discount_percentage": 12,
+        "show_home": false,
+        "brand": "Xiaomi"
+    },
+    {
+        "name_display": "Xiaomi 11T",
+        "full_name": "Xiaomi 11T",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/xiaomi-11-t.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 11990000,
+        "discount_percentage": 15,
+        "show_home": false,
+        "brand": "Xiaomi"
+    },
+    {
+        "name_display": "Xiaomi 11 Lite",
+        "full_name": "Xiaomi 11 Lite",
+        "link_img": "https://manhducjr.cf/nowbuys/products/phones/xiaomi-11-lite-5g.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 9490000,
+        "discount_percentage": 10,
+        "show_home": true,
+        "brand": "Xiaomi"
+    }
+]

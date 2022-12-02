@@ -1,0 +1,422 @@
+[
+    {
+        "name_display": "Surface Pro 8",
+        "full_name": "Microsoft Surface Pro 8",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/microsoft-surface-pro-8.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Microsoft"
+    },
+    {
+        "name_display": "Surface Pro 7",
+        "full_name": "Microsoft Surface Pro 7",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/microsoft-surface-pro-7.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Microsoft"
+    },
+    {
+        "name_display": "Surface Laptop Go 2",
+        "full_name": "Microsoft Surface Laptop Go 2",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/microsoft-surface-laptop-go-2.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Microsoft"
+    },
+    {
+        "name_display": "Surface Laptop 5",
+        "full_name": "Microsoft Surface Laptop 5",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/microsoft-surface-laptop-5.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Microsoft"
+    },
+    {
+        "name_display": "Surface Laptop 4",
+        "full_name": "Microsoft Surface Laptop 4",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/microsoft-surface-laptop-4.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Microsoft"
+    },
+    {
+        "name_display": "Surface Laptop 3",
+        "full_name": "Microsoft Surface Laptop 3",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/microsoft-surface-laptop-3.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Microsoft"
+    },
+    {
+        "name_display": "Macbook Air M1 2020",
+        "full_name": "Apple Macbook Air M1 2020",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/apple-macbook-air-m1-2020.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Macbook"
+    },
+    {
+        "name_display": "Macbook Air M2 2022",
+        "full_name": "Apple Macbook Air M2 2022",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/apple-macbook-air-m2-2022.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Macbook"
+    },
+    {
+        "name_display": "Macbook Pro 13 M2 2022",
+        "full_name": "Apple Macbook Pro 13 M2 2022",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/apple-macbook-pro-13-inch-m2-2022.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Macbook"
+    },
+    {
+        "name_display": "Macbook Pro 14 M1 Max",
+        "full_name": "Apple Macbook Pro 14 M1 Max 2021",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/apple-macbook-pro-14-m1-max-2021.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Macbook"
+    },
+    {
+        "name_display": "Macbook Pro 14 M1 Pro",
+        "full_name": "Apple Macbook Pro 14 M1 Pro 2021",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/apple-macbook-pro-14-m1-pro-2021.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Macbook"
+    },
+    {
+        "name_display": "Macbook Pro 16 M1 Max",
+        "full_name": "Apple Macbook Pro 16 M1 Max 2021",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/apple-macbook-pro-16-m1-max-2021.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Macbook"
+    },
+    {
+        "name_display": "Macbook Pro 16 M1 Pro",
+        "full_name": "Apple Macbook Pro 16 M1 Pro 2021",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/apple-macbook-pro-16-m1-pro-2021.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Macbook"
+    },
+    {
+        "name_display": "Macbook Pro M1 2020",
+        "full_name": "Apple Macbook Pro M1 2020",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/apple-macbook-pro-m1-2020.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Macbook"
+    },
+    {
+        "name_display": "Macbook Pro M2 2022",
+        "full_name": "Apple Macbook Pro M2 2022",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/apple-macbook-pro-m2-2022.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Macbook"
+    },
+    {
+        "name_display": "Asus ROG Flow Z13",
+        "full_name": "Asus ROG Flow Z13",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/asus-rog-flow-z13.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Asus"
+    },
+    {
+        "name_display": "Asus ROG Trix Scar 15",
+        "full_name": "Asus ROG Trix Scar 15",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/asus-rog-strix-scar-15-2022.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Asus"
+    },
+    {
+        "name_display": "Asus ROG Zephyrus Duo 16",
+        "full_name": "Asus ROG Zephyrus Duo 16",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/asus-rog-zephyrus-duo-16.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Asus"
+    },
+    {
+        "name_display": "Asus Vivobook Pro 14X",
+        "full_name": "Asus Vivobook Pro 14X",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/asus-vivobook-pro-14x-n7401.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Asus"
+    },
+    {
+        "name_display": "Asus Zenbook 14",
+        "full_name": "Asus Zenbook 14",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/asus-zenbook-14-ux25ea.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Asus"
+    },
+    {
+        "name_display": "Asus Zenbook 14X Oled",
+        "full_name": "Asus Zenbook 14X Oled Space Edition",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/asus-zenbook-14x-oled-space-edition-ux5401.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Asus"
+    },
+    {
+        "name_display": "Asus Zenbook Duo 14",
+        "full_name": "Asus Zenbook Duo 14",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/asus-zenbook-duo-14.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Asus"
+    },
+    {
+        "name_display": "Asus Zenbook Flip 13",
+        "full_name": "Asus Zenbook Flip 13 Oled",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/asus-zenbook-flip-13-oled.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Asus"
+    },
+    {
+        "name_display": "Dell Alienware M15 R6",
+        "full_name": "Dell Alienware M15 R6",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/dell-alienware-m15-r6.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Dell"
+    },
+    {
+        "name_display": "Dell Alienware X15 R2",
+        "full_name": "Dell Alienware X15 R2",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/dell-alienware-x15-r2.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Dell"
+    },
+    {
+        "name_display": "Dell Latitude 9430",
+        "full_name": "Dell Latitude 9430 2 in 1",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/dell-latitude-9430-2-in-1.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Dell"
+    },
+    {
+        "name_display": "Dell Precision 570",
+        "full_name": "Dell Precision 570",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/dell-precision-570.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Dell"
+    },
+    {
+        "name_display": "Dell XPS 13 Plus 9320",
+        "full_name": "Dell XPS 13 Plus 9320",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/dell-xps-13-plus-9320.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Dell"
+    },
+    {
+        "name_display": "Dell XPS 15 9510",
+        "full_name": "Dell XPS 15 9510",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/dell-xps-15-9510.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Dell"
+    },
+    {
+        "name_display": "Dell XPS 15 9520",
+        "full_name": "Dell XPS 15 9520",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/dell-xps-15-9520.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Dell"
+    },
+    {
+        "name_display": "Dell XPS 17 9720",
+        "full_name": "Dell XPS 17 9720",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/dell-xps-9720-17-inch-2022.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Dell"
+    },
+    {
+        "name_display": "Lenovo Ideapad Gaming 3",
+        "full_name": "Lenovo Ideapad Gaming 3 Gen 7",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lenovo-ideapad-gaming-3i-gen-7.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Lenovo"
+    },
+    {
+        "name_display": "Lenovo Ideapad Slim 5",
+        "full_name": "Lenovo Ideapad Slim 5 Gen 7",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lenovo-ideapad-slim-5i-gen-7.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Lenovo"
+    },
+    {
+        "name_display": "Lenovo Thinkbook 15",
+        "full_name": "Lenovo Thinkbook 15 Gen 4",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lenovo-thinkbook-15-gen-4.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Lenovo"
+    },
+    {
+        "name_display": "Lenovo Thinkpad X1 Carbon",
+        "full_name": "Lenovo Thinkpad X1 Carbon Gen 10",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lenovo-thinkpad-x1-carbon-gen-10.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Lenovo"
+    },
+    {
+        "name_display": "Lenovo Thinkpad X1 Extreme",
+        "full_name": "Lenovo Thinkpad X1 Extreme Gen 4",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lenovo-thinkpad-x1-extreme-gen-4.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "Lenovo"
+    },
+    {
+        "name_display": "Lenovo Thinkpad X1 Nano",
+        "full_name": "Lenovo Thinkpad X1 Nano Gen 2",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lenovo-thinkpad-x1-nano-gen-2.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Lenovo"
+    },
+    {
+        "name_display": "Lenovo Thinkpad Z16",
+        "full_name": "Lenovo Thinkpad Z16",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lenovo-thinkpad-z16.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "Lenovo"
+    },
+    {
+        "name_display": "LG Gram 14 2022",
+        "full_name": "LG Gram 14 2022",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lg-gram-14-2022.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "LG"
+    },
+    {
+        "name_display": "IG Gram 16 2022",
+        "full_name": "IG Gram 16 2022",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lg-gram-16-2022.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "LG"
+    },
+    {
+        "name_display": "LG Gram 17 2021",
+        "full_name": "LG Gram 17 2021",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lg-gram-17-2021.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": false,
+        "brand": "LG"
+    },
+    {
+        "name_display": "LG Gram 17 2022",
+        "full_name": "LG Gram 17 2022",
+        "link_img": "https://manhducjr.cf/nowbuys/products/laptops/lg-gram-17-2022.jpg",
+        "desc": "Tích hợp NPU MariSilicon X,  NPU cao cấp nhất của OPPO xử lý hình ảnh đỉnh cao",
+        "price": 25990000,
+        "discount_percentage": 5,
+        "show_home": true,
+        "brand": "LG"
+    }
+]

@@ -1,0 +1,67 @@
+:root {
+    --primary-font: 'Montserrat', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    --sub-font: Helvetica, sans-serif, Arial;
+    --primary-color-header: #424245;
+    --sub-color-header: #323232;
+    --primary-color-word: #000;
+    --sub-color-word: #6E6E73;
+    --color-url: #0066CC;
+
+    --primary-width-app: 1200px; /* 1203px *  0.792888889 */
+}
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+
+    scroll-behavior: 'smooth';
+}
+
+body {
+    font-family: var(--primary-font);
+    overflow-x: hidden;
+    scroll-behavior: 'smooth';
+
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#app {
+    width: 100% !important;
+    scroll-behavior: 'smooth';
+}
+
+.scroll-to-top {
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #606060;
+    box-shadow: 0 0 5px 1px #ccc;
+    opacity: 0.3;
+    position: fixed;
+    top: 100%;
+    right: 50px;
+    transition: all 0.5s;
+    z-index: 1000;
+}
+
+.scroll-to-top >ion-icon {
+    font-size: 25px;
+    color: #fff;
+}
+
+.scroll-to-top:hover {
+    cursor: pointer;
+    opacity: 1;
+}
