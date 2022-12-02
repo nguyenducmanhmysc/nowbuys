@@ -16,6 +16,10 @@ const app = express();
 //  For Render.com
 const PORT = process.env.PORT || 3030;
 
+app.listen(PORT, () => {
+  console.log(`server started on port ${PORT}`);
+});
+
 
 
 
@@ -61,7 +65,3 @@ DB.connect();
 const routers = require('./src/routes/router');
 routers(app);
 
-
-app.listen(PORT, () => {
-  console.log(`server started on port ${PORT}`);
-});
