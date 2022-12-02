@@ -13,8 +13,8 @@ const app = express();
 //     console.log(`Our app is running on port`);
 // });
 
-const port = process.env.PORT || 3001;
-app.listen(port, () => console.log(`Example app listening on port ${port}!`));
+//  For Render.com
+const PORT = process.env.PORT || 3030;
 
 
 
@@ -60,3 +60,8 @@ DB.connect();
 
 const routers = require('./src/routes/router');
 routers(app);
+
+
+app.listen(PORT, () => {
+  console.log(`server started on port ${PORT}`);
+});
