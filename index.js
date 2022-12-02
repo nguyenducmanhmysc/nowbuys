@@ -8,10 +8,16 @@ const app = express();
 // });
 
 // For Heroku.com 
-const PORT = process.env.PORT || 3000 || 10000;
-app.listen(PORT, () => {
-    console.log(`Our app is running on port`);
-});
+// const PORT = process.env.PORT || 3000 || 10000;
+// app.listen(PORT, () => {
+//     console.log(`Our app is running on port`);
+// });
+
+const port = process.env.PORT || 3001;
+app.listen(port, () => console.log(`Example app listening on port ${port}!`));
+
+
+
 
 const morgan = require('morgan');
 app.use(morgan('combined'));
