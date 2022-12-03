@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "test nodejs expressjs with mongoDB",
     "main": "index.js",
-        "scripts": {"build": "tsc -p tsconfig.build.json",
+        "build": "tsc -p tsconfig.build.json",
         "build-prod": "tsc -p tsconfig.build.json",
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon --inspect index.js"
